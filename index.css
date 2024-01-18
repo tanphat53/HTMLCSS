@@ -1,78 +1,75 @@
 .row1 {
-    display: grid;
-    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-    margin-left: auto;
-    margin-right: auto;
- 
- 
- }
- 
- .row2 {
-    display: grid;
-    grid-template-columns: 100%;
-    margin-left: auto;
-    margin-right: auto;
- }
- 
- .row3 {
-    display: grid;
-    grid-template-columns: 33.33% 33.33% 33.33%;
- 
- }
- 
- .row3 img {
-    width: 99%;
-    padding-bottom: 10px;
-    padding-right: 5px;
-    border-radius: 20px;
- }
- 
- .text {
-    display: grid;
-    grid-template-columns: 66.66% 33.33%;
- 
- }
- 
- .row {
-    width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
- }
- 
- .hang1 {
-    padding-top: 30px;
- }
- 
- .hang2 {
-    padding-top: 30px;
- }
- 
- .hang3 {
-    padding-top: 30px;
- }
- 
- .hang {
-    position: absolute;
-    top 70px;
- }
- 
- .row2 .chu {
-    position: absolute;
-    margin-left: 350px;
-    color: aliceblue;
- 
- }
- 
- .chu2 {
-    margin-left: 50px;
- 
- }
- 
- .row33 {
-    width: 96.5%;
- }
- 
- .row44 {
-    width: 96.5%;
- 
- }
+   display: grid;
+   grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+   margin-left: auto;
+   margin-right: auto;
+
+
+}
+
+.row2 {
+   display: grid;
+   grid-template-columns: 100%;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.row3 {
+   display: grid;
+   grid-template-columns: 33.33% 33.33% 33.33%;
+
+}
+
+.row3 img {
+   width: 99%;
+   padding-bottom: 10px;
+   padding-right: 5px;
+   border-radius: 20px;
+}
+
+.text {
+   display: grid;
+   grid-template-columns: 66.66% 33.33%;
+
+}
+
+.row {
+   width: 1200px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.text-menu-1 {
+   padding-top: 30px;
+}
+
+.text-menu-2 {
+   padding-top: 30px;
+}
+
+.text-menu-3 {
+   padding-top: 30px;
+}
+
+
+
+.row2 .text-banner {
+   position: absolute;
+   margin-left: 350px;
+   color: aliceblue;
+
+}
+
+.text-extra {
+   margin-left: 50px;
+
+}
+
+.row3-1 {
+   width: 96.5%;
+}
+
+.row3-2 {
+   width: 96.5%;
+
+}
