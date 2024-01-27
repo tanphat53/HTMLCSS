@@ -1,0 +1,52 @@
+.container{
+   
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+
+header{
+  display: block;
+}
+
+
+.row2{
+   position: relative;
+}
+.text {
+   position: absolute;
+   top: 20px;
+   left: 285px;
+   color: aliceblue;
+   h1{
+      font-size: 35px;
+   }
+}   
+.text-extra{
+   margin-left: 50px;
+}
+
+.row div{
+   padding: 0 5px;
+      
+}
+.row img{
+   width:100%; 
+   border-radius: 10px;     
+}
+#picture{
+   height: 100%;
+}   
+@media only screen and (min-width: 987px) {
+   #text5{
+      padding-left: 20%!important;
+   }
+   /* For desktop: */
+   .text3 {
+   width: 100%;
+   }
+   }
+   .navbar-nav{
+      margin-left: 650px;
+   }
