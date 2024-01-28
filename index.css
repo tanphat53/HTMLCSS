@@ -17,7 +17,7 @@ header{
 }
 h1 {
    width: 0;
-   min-width: 115%;
+   min-width: 100%;
    
 }
 
@@ -26,7 +26,7 @@ h1 {
    width: 100%;
    top: 2%;
    text-align: center;
-   right: 80px;
+   
    color: aliceblue;
    font-size: 50%;
    h1{
@@ -36,12 +36,9 @@ h1 {
   
    
 }
-.text-banner{
-   display: inline;
-}   
+
 .text-extra{
-   margin-left: 1.5%;
-   width: 110%;
+   width: 100%;
 }
 
 .row div{
